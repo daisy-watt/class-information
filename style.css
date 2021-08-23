@@ -1,0 +1,24 @@
+  
+html
+{
+    background-color: rgb(250, 255, 238);
+}
+
+body
+{
+}
+
+h1
+{
+    color: cyan;
+}
+
+.titles
+{
+    color: blue;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
